@@ -1,4 +1,6 @@
 import streamlit
 streamlit.title('My Parents new Heathly')
-streamlit.header('Breakfast menu')
-streamlit.text('omega3 & Blueberry oatmeal')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
